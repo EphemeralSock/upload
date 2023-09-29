@@ -1,0 +1,13 @@
+h1{
+    color: green;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 60px;
+  }
+  body{
+    font-size: 22px;
+    font-family: sans-serif;
+  }
+  section.study h2{
+   color: yellow; 
+  }
